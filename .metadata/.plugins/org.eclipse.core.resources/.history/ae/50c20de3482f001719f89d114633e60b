@@ -20,7 +20,7 @@
 <!-- 				<version>3.0.0</version> -->
 <!-- 				<configuration> -->
 <!-- 					<webXml>src\main\webapp\WEB_INF\web.xml</webXml> -->
-<!-- 				<failOnMissingWebXml>false</failOnMissingWebXml> -->
+<!-- <!-- 				<failOnMissingWebXml>false</failOnMissingWebXml> --> -->
 <!-- 				</configuration> -->
 <!-- 			</plugin> -->
 		</plugins>
