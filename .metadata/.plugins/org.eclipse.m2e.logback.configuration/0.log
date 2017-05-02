@@ -746,3 +746,70 @@ Caused by: org.eclipse.core.internal.resources.ResourceException: Resource '/Cat
 2017-05-02 09:26:14,296 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
 2017-05-02 09:26:14,452 [Worker-48] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Biehl\Desktop\CaterUponRepo\CaterUpon
 2017-05-02 09:26:14,472 [Worker-48] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2017-05-02 09:28:38,733 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-compiler-plugin:jar:3.3.9 is missing, no dependency information available
+2017-05-02 09:28:38,767 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-compiler-plugin:jar:3.3.9 is missing, no dependency information available
+2017-05-02 09:28:38,821 [Worker-51] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CaterUpon:CaterUpon:0.0.1-SNAPSHOT @ C:\Users\Biehl\Desktop\CaterUponRepo\CaterUpon\pom.xml.
+2017-05-02 09:28:38,868 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-compiler-plugin:jar:3.3.9 is missing, no dependency information available
+2017-05-02 09:28:38,917 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-compiler-plugin:3.3.9: Plugin org.apache.maven.plugins:maven-compiler-plugin:3.3.9 or one of its dependencies could not be resolved: Failure to find org.apache.maven.plugins:maven-compiler-plugin:jar:3.3.9 in https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced
+2017-05-02 09:28:38,932 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-compiler-plugin:jar:3.3.9 is missing, no dependency information available
+2017-05-02 09:28:38,969 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-compiler-plugin:3.3.9: Plugin org.apache.maven.plugins:maven-compiler-plugin:3.3.9 or one of its dependencies could not be resolved: Failure to find org.apache.maven.plugins:maven-compiler-plugin:jar:3.3.9 in https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced
+2017-05-02 09:28:38,990 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-compiler-plugin:jar:3.3.9 is missing, no dependency information available
+2017-05-02 09:28:39,585 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-02 09:28:39,601 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Biehl\Desktop\CaterUponRepo\CaterUpon\src\main\resources
+2017-05-02 09:28:39,605 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-02 09:28:39,621 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Biehl\Desktop\CaterUponRepo\CaterUpon\src\test\resources
+2017-05-02 09:28:39,621 [Worker-51] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CaterUpon
+2017-05-02 09:28:39,621 [Worker-51] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CaterUpon
+2017-05-02 09:28:39,646 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-compiler-plugin:jar:3.3.9 is missing, no dependency information available
+2017-05-02 09:28:39,667 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-compiler-plugin:3.3.9: Plugin org.apache.maven.plugins:maven-compiler-plugin:3.3.9 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.apache.maven.plugins:maven-compiler-plugin:jar:3.3.9 has not been downloaded from it before.
+2017-05-02 09:28:39,682 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-compiler-plugin:jar:3.3.9 is missing, no dependency information available
+2017-05-02 09:28:39,698 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-compiler-plugin:3.3.9: Plugin org.apache.maven.plugins:maven-compiler-plugin:3.3.9 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.apache.maven.plugins:maven-compiler-plugin:jar:3.3.9 has not been downloaded from it before.
+2017-05-02 09:28:39,719 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-02 09:28:39,739 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-compiler-plugin:jar:3.3.9 is missing, no dependency information available
+2017-05-02 09:29:10,340 [Worker-55] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CaterUpon:CaterUpon:0.0.1-SNAPSHOT @ C:\Users\Biehl\Desktop\CaterUponRepo\CaterUpon\pom.xml.
+2017-05-02 09:29:11,573 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-02 09:29:11,598 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Biehl\Desktop\CaterUponRepo\CaterUpon\src\main\resources
+2017-05-02 09:29:11,602 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-02 09:29:11,635 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Biehl\Desktop\CaterUponRepo\CaterUpon\src\test\resources
+2017-05-02 09:29:11,635 [Worker-55] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CaterUpon
+2017-05-02 09:29:11,647 [Worker-55] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CaterUpon
+2017-05-02 09:29:11,657 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-02 09:30:25,948 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-02 09:30:25,969 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Biehl\Desktop\CaterUponRepo\CaterUpon\src\main\resources
+2017-05-02 09:30:25,988 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-02 09:30:26,008 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Biehl\Desktop\CaterUponRepo\CaterUpon\src\test\resources
+2017-05-02 09:38:50,295 [Worker-58] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CaterUpon:CaterUpon:0.0.1-SNAPSHOT @ C:\Users\Biehl\Desktop\CaterUponRepo\CaterUpon\pom.xml.
+2017-05-02 09:38:51,415 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-02 09:38:51,440 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Biehl\Desktop\CaterUponRepo\CaterUpon\src\main\resources
+2017-05-02 09:38:51,454 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-02 09:38:51,478 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Biehl\Desktop\CaterUponRepo\CaterUpon\src\test\resources
+2017-05-02 09:38:51,478 [Worker-58] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CaterUpon
+2017-05-02 09:38:51,489 [Worker-58] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CaterUpon
+2017-05-02 09:38:51,496 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-02 09:39:04,498 [Worker-62] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-05-02 09:39:05,053 [Worker-62] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CaterUpon:CaterUpon:0.0.1-SNAPSHOT @ C:\Users\Biehl\Desktop\CaterUponRepo\CaterUpon\pom.xml.
+2017-05-02 09:39:06,170 [Worker-62] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CaterUpon/src
+2017-05-02 09:39:06,171 [Worker-62] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /CaterUpon/src/test/java because it overlaps with /CaterUpon/src
+2017-05-02 09:39:07,092 [Worker-62] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CaterUpon
+2017-05-02 09:39:07,105 [Worker-62] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2017-05-02 09:39:07,501 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-02 09:39:07,515 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Biehl\Desktop\CaterUponRepo\CaterUpon\src\main\resources
+2017-05-02 09:39:07,531 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-02 09:39:07,545 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Biehl\Desktop\CaterUponRepo\CaterUpon\src\test\resources
+2017-05-02 09:39:07,557 [Worker-63] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CaterUpon
+2017-05-02 09:39:07,557 [Worker-63] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CaterUpon
+2017-05-02 09:39:07,565 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-02 09:44:20,099 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2017-05-02 09:44:20,253 [Worker-61] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Biehl\Desktop\CaterUponRepo\CaterUpon
+2017-05-02 09:44:20,268 [Worker-61] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2017-05-02 09:45:13,865 [Worker-58] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CaterUpon:CaterUpon:0.0.1-SNAPSHOT @ C:\Users\Biehl\Desktop\CaterUponRepo\CaterUpon\pom.xml.
+2017-05-02 09:45:15,102 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-02 09:45:15,134 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Biehl\Desktop\CaterUponRepo\CaterUpon\src\main\resources
+2017-05-02 09:45:15,152 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-02 09:45:15,181 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Biehl\Desktop\CaterUponRepo\CaterUpon\src\test\resources
+2017-05-02 09:45:15,182 [Worker-58] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CaterUpon
+2017-05-02 09:45:15,187 [Worker-58] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CaterUpon
+2017-05-02 09:45:15,203 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-02 09:45:23,557 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2017-05-02 09:45:23,688 [Worker-65] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Biehl\Desktop\CaterUponRepo\CaterUpon
+2017-05-02 09:45:23,688 [Worker-65] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
