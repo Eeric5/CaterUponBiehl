@@ -850,3 +850,26 @@ Caused by: org.eclipse.core.internal.resources.ResourceException: Resource '/Cat
 2017-05-02 10:12:51,762 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2017-05-02 10:13:09,277 [Worker-88] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Biehl\Desktop\CaterUponRepo\CaterUpon
 2017-05-02 10:13:09,277 [Worker-88] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2017-05-02 10:18:07,352 [Worker-97] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CaterUpon:CaterUpon:0.0.1-SNAPSHOT @ C:\Users\Biehl\Desktop\CaterUponRepo\CaterUpon\pom.xml.
+2017-05-02 10:18:08,632 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-02 10:18:08,647 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Biehl\Desktop\CaterUponRepo\CaterUpon\src\main\resources
+2017-05-02 10:18:08,650 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-02 10:18:08,666 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Biehl\Desktop\CaterUponRepo\CaterUpon\src\test\resources
+2017-05-02 10:18:08,667 [Worker-97] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CaterUpon
+2017-05-02 10:18:08,678 [Worker-97] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CaterUpon
+2017-05-02 10:18:08,686 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-02 10:18:19,491 [Worker-98] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-05-02 10:18:20,239 [Worker-98] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: CaterUpon:CaterUpon:0.0.1-SNAPSHOT @ C:\Users\Biehl\Desktop\CaterUponRepo\CaterUpon\pom.xml.
+2017-05-02 10:18:21,462 [Worker-98] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /CaterUpon/src/main/java because it overlaps with /CaterUpon/src
+2017-05-02 10:18:21,474 [Worker-98] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /CaterUpon/src/test/java because it overlaps with /CaterUpon/src
+2017-05-02 10:18:22,577 [Worker-98] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CaterUpon
+2017-05-02 10:18:22,589 [Worker-98] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2017-05-02 10:18:23,069 [Worker-101] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-02 10:18:23,095 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Biehl\Desktop\CaterUponRepo\CaterUpon\src\main\resources
+2017-05-02 10:18:23,110 [Worker-101] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-02 10:18:23,126 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Biehl\Desktop\CaterUponRepo\CaterUpon\src\test\resources
+2017-05-02 10:18:23,140 [Worker-101] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CaterUpon
+2017-05-02 10:18:23,141 [Worker-101] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CaterUpon
+2017-05-02 10:18:23,149 [Worker-101] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-02 10:18:34,279 [Worker-97] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Biehl\Desktop\CaterUponRepo\CaterUpon
+2017-05-02 10:18:34,295 [Worker-97] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
